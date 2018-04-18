@@ -1,8 +1,8 @@
 const config = {
   stripe: {
-    apiKey: 'pk_test_SG9qh1GK5AiTycr7x4t3L9p6',
-    apiUrl: 'https://kpygs0yhak.execute-api.ap-southeast-1.amazonaws.com/dev/charges',
-    currency: 'USD',
+    apiKey: 'pk_test_BVcz56aL53fjwqbliQ8M00JW',
+    apiUrl: 'https://g87mm4fux6.execute-api.us-east-2.amazonaws.com/dev/charges',
+    currency: 'NZD',
   },
 };
 
